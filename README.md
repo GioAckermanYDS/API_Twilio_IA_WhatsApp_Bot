@@ -1,5 +1,5 @@
 Créditos, mejoras y video explicativo
-Este proyecto se basa en el trabajo original de Lena Shakurova, quien amablemente autorizó su traducción y adaptación (ver mensaje de Lena más arriba).
+Este proyecto se basa en el trabajo original de Lena Shakurova, quien amablemente autorizó su traducción y adaptación.
 Esta versión en español incluye:
 - Traducción completa del README.md
 
