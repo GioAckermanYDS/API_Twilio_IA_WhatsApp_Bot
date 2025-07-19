@@ -1,0 +1,16 @@
+.
+├── app
+│   ├── cookies_utils.py
+│   ├── logger_utils.py
+│   ├── main.py
+│   ├── openai_utils.py
+│   ├── prompts.py
+│   └── redis_utils.py
+├── docker-compose.yml
+├── .env
+├── Dockerfile
+├── Ejecutable
+├── logs
+│   └── logtest.log
+├── README.md
+├── requirements.txt
